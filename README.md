@@ -23,7 +23,7 @@ That's right, if your computer has Java installed then you can begin using these
 
 ## Getting started
 
-Download the zip file and unpack it. You'll see two folders, static and dep. Leave dep alone, it's where the tools live.
+[Download the zip file](https://github.com/newz2000/fullerton-project/archive/master.zip) and unpack it. You'll see two folders, static and dep. Leave dep alone, it's where the tools live.
 
 The static folder is where you keep your assets such as Javscript, Sass/CSS, Web fonts and images.
 
@@ -83,18 +83,18 @@ This feature is not done yet. Release early, release often so they say.
 
 ## Road map
 
-Current version is 0.4. It supports JSLint, Sass and JsTestDriver. It has been tested with Windows XP running Java 7, Mac OS 10.7 running Java 6 and Ubuntu 12.04 LTS running Java 6.
+Current version is 0.4, released April 2nd 2013. It supports JSLint, Sass and JsTestDriver. It has been tested with Windows XP running Java 7, Mac OS 10.7 running Java 6 and Ubuntu 12.04 LTS running Java 6.
 
 ### History
 
  * v0.1 Create the project with example files, the basic scripts and principles
  * v0.2 Use jRuby to compile Sass
- * v0.3 Run the JSLint tool
+ * v0.3 Run the JSLint tool as part of the build
  * v0.4 Enable JS Test Driver
 
 ### Future
 
- * v0.5 Enable Closure compiler in build.sh
+ * v0.5 Enable Closure compiler in the build
  * v0.6 Shrink the size of the zip file and initial project (especially jruby)
  * v0.7 Enable command line parameters to enable only various steps, i.e. Run only the Sass build or JS Lint.
  * v0.8 Enable parameters to produce different kinds of output (i.e. debuggable css and/or js)
