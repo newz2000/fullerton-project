@@ -117,4 +117,4 @@ So what are the pieces?
 * [closure-compiler](https://developers.google.com/closure/compiler/) - Optimizes and compiles Javascript. Closure-compiler is provided via the Apache 2.0 license
 * [js-test-driver](https://code.google.com/p/js-test-driver/) - Run your Javascript unit tests. js-test-driver is provided via the Apache 2.0 license
 * [normalize.css](git.io/normalize) - a sample .scss file that helps provide consistent CSS styles for all browser. (better than a reset) Normalize.css is provided via the MIT license
-* Custom code comprising the [Fullerton project](https://github.com/newz2000) released under the BSD license
+* Custom code comprising the [Fullerton project](https://github.com/newz2000/fullerton-project) released under the BSD license
